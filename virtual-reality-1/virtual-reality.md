@@ -90,7 +90,7 @@ Zo lang de platform niet werkt met iets als de _lighthouses_ van HTC Vive, dan i
 
 * **Welke VR voelt prettig voor gebruik?**
 
-Dit is dus nogal arbitrait om te zeggen over een VR platform. Toch kan ik het enigszins beschrijven. Ik merk aan de VR Gear dat de resolutie wat lager ligt dan bij platformen waarbij de berekeningen op een desktop worden gedaan. Voor mijn gevoel is de resolutie van de schermen in dergelijke VR brillen veel hoger, daarnaast heeft een desktop meer rekenkracht \(over het algemeen\) dan een S9. Verder weet ik niet precies waar het aan lag, maar de Playstation VR zorgde ervoor dat ik ontzettend misselijk werd. Roey vertelde dat hij hetzelfde ervaart met de Playstation VR. Misschien lag het aan de kunstmatige locomotion door middel van de joystick. Ik zou verder moeten onderzoeken of er nog andere factoren een rol spelen \(framerate, resolutie\).
+Dit is dus nogal arbitrair om te zeggen over een VR platform. Toch kan ik het enigszins beschrijven. Ik merk aan de VR Gear dat de resolutie wat lager ligt dan bij platformen waarbij de berekeningen op een desktop worden gedaan. Voor mijn gevoel is de resolutie van de schermen in dergelijke VR brillen veel hoger, daarnaast heeft een desktop meer rekenkracht \(over het algemeen\) dan een S9. Verder weet ik niet precies waar het aan lag, maar de Playstation VR zorgde ervoor dat ik ontzettend misselijk werd. Roey vertelde dat hij hetzelfde ervaart met de Playstation VR. Misschien lag het aan de kunstmatige locomotion door middel van de joystick. Ik zou verder moeten onderzoeken of er nog andere factoren een rol spelen \(framerate, resolutie\).
 
 * **Wat is de viewport van de beschikbare AR in CMD?**
 
