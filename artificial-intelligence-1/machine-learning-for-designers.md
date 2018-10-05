@@ -105,3 +105,33 @@ Kortom, onthouden neuronen kleine stukjes informatie die getriggerd kunnen worde
 
 Deze vorm van leren is gepast voor problemen waarvoor er zowel input voorbeelden voor zijn, als bijbehorende output voorbeelden. Het is de bedoeling dat het systeem dan een benadering induceert van regels of functionaliteiten van de correlatie\(s\) tussen de input en output. Dit soort problemen kunnen onderverdeeld worden in twee soorten: _classification_ en _regression_ problemen. _Classification_ problemen refereren naar een output dat onderverdeeld kan worden in verschillende categorieën. Het systeem helpt bij het benaderen van de output bij een categorie. _Regression_ problemen zijn om een voorspelling te maken aan de hand van de input. Denk hierbij aan metriek.  
 
+#### Unsupervised learning
+
+Bij deze manier van machine learning is er enkel input voorbeelden nodig. Het systeem heeft dan de taak om interne patronen te vinden in alle gegeven voorbeelden. Het is dus belangrijk dat de set voorbeelden die beschikbaar worden gesteld, daadwerkelijk dat patroon hebben wat het systeem moet vinden. 
+
+#### Semi-supervised learning
+
+Bij dit systeem wordt er rauwe input eerst door een unsupervised systeem gegooid en geïnterpreteerd. Het unsupervised systeem zoek naar patronen in de data en haalt daarbij ruis weg. Deze verbeterde, gecureerde data wordt dan in een supervised systeem gegooid met de interpretaties van de unsupervised systeem. Dan correleert de supervised systeem de gecureerde input \(met minder ruis\) met de output die al bekend was.
+
+#### Reinforcement learning
+
+Een systeem waarbij het leren gaat om _rewards_ en _punishments_ omtrent specifieke gedragingen binnen een bepaalde context. Een voorbeeld waarbij een dergelijk systeem erg goed leert is het leren spelen van schaken. 
+
+## What Is Deep Learning
+
+Over de laatste decennium zijn er een aantal technologische ontwikkelingen geweest die samen met ontwikkelingen van ANN een vooruitgang hebben gegeven aan Deep Learning. Dit had niet mogelijk kunnen zijn zonder de sterke computer kracht die er tegenwoordig binnen hand bereik is. 
+
+> One of the central ideas driving these advances is the reali‐ zation that complex patterns can be understood as hierarchical phe‐ nomena in which simple patterns are used to form the building blocks for the description of more complex ones, which can in turn be used to describe even more complex ones. The systems that have arisen from this research are referred to as “deep” because they gen‐ erally involve multiple layers of learning systems which are tasked with discovering increasingly abstract or “high-level” patterns. This approach is often referred to as hierarchical feature learning.
+
+Een voorbeeld van een dergelijke hiërarchische architectuur wordt hieronder beschreven en afgebeeld:
+
+> Rather than trying to correlate raw pixel information with the notion of a human face, we can break the problem down into several successive stages of conceptual abstraction \(see Figure 1-10\). In the first layer, we might try to discover simple patterns in the relation‐ ships between individual pixels. These patterns would describe basic geometric components such as lines. In the next layer, these basic patterns could be used to represent the underlying components of more complex geometric features such as surfaces, which could be used by yet another layer to describe the complex set of shapes that compose an object like a human face.
+
+![](../.gitbook/assets/neural.perception.JPG)
+
+## Enhancing Design with Machine Learning
+
+### Parsing Complex Information
+
+
+
