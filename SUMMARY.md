@@ -11,3 +11,7 @@
 * [Onderzoek VR](virtual-reality-1/virtual-reality.md)
 * [Het design](virtual-reality-1/het-design.md)
 
+## Artificial Intelligence
+
+* [Machine Learning for Designers](artificial-intelligence-1/machine-learning-for-designers.md)
+
