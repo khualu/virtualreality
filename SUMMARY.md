@@ -15,3 +15,7 @@
 
 * [Machine Learning for Designers](artificial-intelligence-1/machine-learning-for-designers.md)
 
+## Human Agent Interaction
+
+* [Lastige gesprekken met lastige mensen](human-agent-interaction/lastige-gesprekken-met-lastige-mensen.md)
+
