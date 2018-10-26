@@ -18,4 +18,9 @@
 ## Human Agent Interaction
 
 * [Lastige gesprekken met lastige mensen](human-agent-interaction/lastige-gesprekken-met-lastige-mensen.md)
+* [De chatbot waar je wat aan hebt](human-agent-interaction/de-chatbot-waar-je-wat-aan-hebt.md)
+
+## Conversational Design
+
+* [The Human Interface](conversational-design/the-human-interface.md)
 
