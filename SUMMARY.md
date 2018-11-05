@@ -19,8 +19,13 @@
 
 * [Lastige gesprekken met lastige mensen](human-agent-interaction/lastige-gesprekken-met-lastige-mensen.md)
 * [De chatbot waar je wat aan hebt](human-agent-interaction/de-chatbot-waar-je-wat-aan-hebt.md)
+* [Untitled](human-agent-interaction/untitled.md)
 
 ## Conversational Design
 
 * [The Human Interface](conversational-design/the-human-interface.md)
+
+## Internet of Things
+
+* [Presentatie David Oldenburger](internet-of-things/presentatie-david-oldenburger.md)
 
