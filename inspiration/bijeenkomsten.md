@@ -25,7 +25,19 @@ Jammer genoeg was ik ontzettend ziek tijdens deze bijeenkomst. Ik had graag Anne
 
 ## Artificial Intelligence
 
+Dit was de bijeenkomst van het groepje waar ik een deel uit maak. Aangezien we vrij waren om de workshop in te vullen zoals we wilden was ik een voorstander van een serie, film of anime te kijken. Simpelweg omdat ik het gevoel had dat hoe inspirerend onze workshop had mogen zijn, we bij niemand gingen zorgen dat hun project veranderde. De workshop was namelijk best wel laat in het project gepland. Er waren voorstanders voor een meer conventionele presentatie en opdracht. 
 
+Desalniettemin, hebben we als groep een leuke presentatie neergezet over kunstmatige intelligentie. De workshop was geïnspireerd op science fiction, games, conventies en grote technonauten. 
+
+{% embed url="https://www.youtube.com/watch?v=MWI97Kg8ur8" %}
+
+
+
+In het eerste gedeelte besprak ik waar ik inspiratie haalde voor het project, namelijk Ergo Proxy. De manier waarop in deze serie autonome robots zijn tentoongesteld heeft niet alleen de richting van mijn project bepaald, maar ook een nieuwe wijze geschetst in hoe ik denk over kunstmatige intelligentie. Dit betreffend ethische en morele waarden van AI's.
+
+Vervolgens focusde de presentatie zich vooral op wat de hedendaagse gevoelens zijn over kunstmatige intelligenties. Bijvoorbeeld, waar onderzoek naar wordt gedaan en wat mogelijke toepassingen zijn. Een groot punt in het verhaal van kunstmatige intelligentie is het vertrouwen erop van mensen. Dit is nog verder besproken. 
+
+Al met al, vond ik het zelf een leuke bijeenkomst die kort maar krachtig was en waar veel werd gelachen. 
 
 
 
