@@ -4,7 +4,7 @@ description: >-
   Technologies.
 ---
 
-# Inspiration Week
+# Introductie week
 
 ## Black Museum - Black Mirror
 
@@ -16,7 +16,7 @@ Dezelfde mogelijke implicaties gelden voor het voelen van de sensaties en percep
 
 Wat een inspirerende werking had op me, was hoe in zekere zin hetzelfde idee \(sensaties en perceptie van iemand anders ervaren\) weer op tweede manier wordt uitgewerkt wat later in het verhaal. Vaak blijf ik steken op één executie van een idee. Zo kan je zien dat je meer kan doen met een concept. Het hele bewustzijn wordt hier meegenomen naar een ander individu. Daar hoort wat meer bij natuurlijk dan alleen sensatie en perceptie. Het was ook wel erg grappig tijdens het kijken, dat de 'drager' binnen een scene van gelukkig, naar schizoïde gaat. Naarmate ik verder kijk blijf ik me verbazen over hoe de schrijvers op het idee zijn gekomen hiervoor. De discussie over de ethiek van iemand in een vegetatieve staat te euthaniseren. Als je verder denkt over wat het inhoudt om het bewustzijn van die persoon \(bewustzijn in vegetatieve staat is een andere vraag\) in een ander persoon te stoppen en later in een object waarvan de communicatie mogelijkheden ontzettend beperkt zijn, is weer een ander verhaal. 
 
-![](.gitbook/assets/blackmirror-top-image.jpg)
+![](../.gitbook/assets/blackmirror-top-image.jpg)
 
 ## The Falls: A Luna Story - Ian McDonald
 
@@ -28,11 +28,11 @@ De interacties tussen mensen en AI zijn in deze short story erg gewetensvol. Wat
 
 Al en al, in dit korte verhaal speelt AI een belangrijke rol in het dagelijkse leven op de maan. Zij zijn een gedeelte van het dagelijkse leven, waarbij er interactie plaats vindt tussen de mensen op de maan en het AI. Overigens zijn er veel andere technologieën die gebruikt worden op de maan, maar die meer op de achtergrond vallen van het verhaal. Er is complexe technologie nodig om leven op de maan mogelijk te maken. Een voorbeeld daarvan zijn de filters die de stof uit de lucht filteren. Een mogelijk andere voorbeeld zou de capsules kunnen zijn waar ze in leven en de treinen en poorten die besproken worden in het verhaal. De AI heeft een prominente rol op de leven op de maan in de toekomst.  
 
-![](.gitbook/assets/81dudco9mrl.jpg)
+![](../.gitbook/assets/81dudco9mrl.jpg)
 
 ## Eerste Scenario's 
 
-![](.gitbook/assets/20180905_151637.jpg)
+![](../.gitbook/assets/20180905_151637.jpg)
 
 **Inleiding**
 
@@ -64,9 +64,9 @@ Nadat de testfase is afgerond, krijg je mensen die het ook daadwerkelijk gaan ge
 De VR wereld is een wereld die op zichzelf bestaat. Mensen leiden hier hun leven. Zij hebben een manier om een inkomen te genereren. Dit inkomen zorgt ervoor dat zij in de werkelijke wereld worden voorzien van genoeg voedingsstoffen en water.  In de VR wereld kunnen zij hiermee spullen kopen als kleding, upgrades etc.  
 
 
-![](.gitbook/assets/20180905_151722%20%282%29.jpg)
+![](../.gitbook/assets/20180905_151722%20%282%29.jpg)
 
-![](.gitbook/assets/20180905_144803.jpg)
+![](../.gitbook/assets/20180905_144803.jpg)
 
 ## Ghost In The Shell
 
@@ -78,7 +78,7 @@ De interactie tussen de mensen en deze technologie is organisch. Het zou misschi
 
 Een laatste technologie die wordt beschreven is een vorm van AI, dat voor mijn gevoel AI zoals wij dat nu kennen al voorbij is. Ik bedoel hiermee _The Puppet Master._ Het zegt dat het gemaakt is door mensen en met behulp van alle informatie die beschikbaar was, uiteindelijk besloot dat de essentie van het mensen bestaan reproductie en sterven is. Dit bekritiseerd de vraag over de ethiek van cyborgs voor mijn gevoel behoorlijk.  Ik vind het in ieder geval erg interessant om na te denken over hoe een AI, die gigantische hoeveelheden informatie tot de conclusie is gekomen om een leven te leiden zoals mensen die doen. Zich reproduceren en uiteindelijk dan ook in een menselijk brein en lichaam te sterven. Misschien is toch het idee van eeuwig leven zelfs voor een AI niet smakelijk en houden zij hier liever afstand van. 
 
-![](.gitbook/assets/capture%20%281%29.JPG)
+![](../.gitbook/assets/capture%20%281%29.JPG)
 
 > _If man realizes technology is within reach, he achieves it. Like it's damn near instinctive."_
 >

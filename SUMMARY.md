@@ -2,7 +2,6 @@
 
 * [EmTech Bibliografie](README.md)
 * [EmTech Bibliografie](emtech-bibliografie.md)
-* [Inspiration Week](untitled-1.md)
 
 ## Virtual Reality
 
@@ -28,6 +27,7 @@
 
 ## Inspiration
 
+* [Introductie week](inspiration/untitled-1.md)
 * [Bijeenkomsten](inspiration/bijeenkomsten.md)
 * [Film](inspiration/film.md)
 * [Museum](inspiration/museum.md)
