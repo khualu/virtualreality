@@ -129,9 +129,7 @@ Een voorbeeld van een dergelijke hiërarchische architectuur wordt hieronder bes
 
 ![](../.gitbook/assets/neural.perception.JPG)
 
-## Enhancing Design with Machine Learning
 
-### Parsing Complex Information
 
 
 

@@ -3,8 +3,6 @@
 * [EmTech Bibliografie](README.md)
 * [EmTech Bibliografie](emtech-bibliografie.md)
 * [Inspiration Week](untitled-1.md)
-* [Human-Agent Interaction](untitled-2.md)
-* [Futures Thinking and Making](futures-thinking-and-making.md)
 
 ## Virtual Reality
 
@@ -19,7 +17,6 @@
 
 * [Lastige gesprekken met lastige mensen](human-agent-interaction/lastige-gesprekken-met-lastige-mensen.md)
 * [De chatbot waar je wat aan hebt](human-agent-interaction/de-chatbot-waar-je-wat-aan-hebt.md)
-* [Untitled](human-agent-interaction/untitled.md)
 
 ## Conversational Design
 
@@ -28,4 +25,11 @@
 ## Internet of Things
 
 * [Presentatie David Oldenburger](internet-of-things/presentatie-david-oldenburger.md)
+
+## Inspiration
+
+* [Bijeenkomsten](inspiration/bijeenkomsten.md)
+* [Film](inspiration/film.md)
+* [Museum](inspiration/museum.md)
+* [Reflectie](inspiration/reflectie.md)
 
