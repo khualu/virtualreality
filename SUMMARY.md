@@ -29,7 +29,7 @@
 
 * [Introductie week](inspiration/untitled-1.md)
 * [Bijeenkomsten](inspiration/bijeenkomsten.md)
-* [Film](inspiration/film.md)
+* [Film - Aquaman](inspiration/film.md)
 * [Museum](inspiration/museum.md)
 * [Reflectie](inspiration/reflectie.md)
 
