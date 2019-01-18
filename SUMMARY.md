@@ -31,6 +31,6 @@
 * [Introductie week](inspiration/untitled-1.md)
 * [Bijeenkomsten](inspiration/bijeenkomsten.md)
 * [Film - Aquaman](inspiration/film.md)
-* [Museum](inspiration/museum.md)
+* [Museum - Cool Japan](inspiration/museum.md)
 * [Reflectie](inspiration/reflectie.md)
 
