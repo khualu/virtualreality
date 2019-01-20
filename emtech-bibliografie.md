@@ -10,5 +10,13 @@ description: Bronnen van van inspiratie bij elkaar gevoegd.
 
 ![Portal, game by Valve. https://cdns.kinguin.net/media/category/s/s/ss\_6a4f5afdaa98402de9cf0b59fed27bab3256a6f4.800x600\_1.jpg](.gitbook/assets/portal.jpg)
 
+{% embed url="https://www.youtube.com/watch?v=8CrOL-ydFMI" %}
+
+{% embed url="https://www.youtube.com/watch?v=i6xMBig-pP4" %}
+
+{% embed url="https://www.youtube.com/watch?v=ob4faIum4kQ" %}
+
+{% embed url="https://www.youtube.com/watch?v=C2vgICfQawE" %}
+
 
 
