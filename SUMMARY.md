@@ -1,7 +1,7 @@
 # Table of contents
 
 * [EmTech Bibliografie](README.md)
-* [Visuele inspiratie](emtech-bibliografie.md)
+* [Inspiratie](emtech-bibliografie.md)
 * [Video bronnen](video-bronnen.md)
 
 ## Virtual Reality

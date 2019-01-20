@@ -2,7 +2,7 @@
 description: Bronnen van van inspiratie bij elkaar gevoegd.
 ---
 
-# Visuele inspiratie
+# Inspiratie
 
 ## Inspiration on the page
 
