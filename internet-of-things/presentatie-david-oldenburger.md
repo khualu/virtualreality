@@ -1,3 +1,7 @@
+---
+description: Aantekeningen presentatie Phillips HUE van D. Oldenburger.
+---
+
 # Presentatie David Oldenburger
 
 ## Vormen van interactie
