@@ -5,7 +5,7 @@ description: >-
   mogelijke implicaties hier over.
 ---
 
-# Reflectie - Ergo Proxy
+# Activiteit - Ergo Proxy
 
 Voor dit project heb ik, zoals velen, inspiratie gehaald uit science fiction. In het specifiek een anime genaamd _Ergo Proxy_. Het verhaal speelt zich af in een dystopische toekomst, waarbij de mensheid de biosfeer heeft verwoest. Daardoor leven mensen in biodomes.  Afgesloten sferen, waar een gigantische metropool zich in bevindt.
 

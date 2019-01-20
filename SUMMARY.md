@@ -32,5 +32,6 @@
 * [Bijeenkomsten](inspiration/bijeenkomsten.md)
 * [Film - Aquaman](inspiration/film.md)
 * [Museum - Cool Japan](inspiration/museum.md)
-* [Reflectie - Ergo Proxy](inspiration/reflectie.md)
+* [Activiteit - Ergo Proxy](inspiration/reflectie.md)
+* [Reflectie](inspiration/reflectie-1.md)
 
